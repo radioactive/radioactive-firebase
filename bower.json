@@ -1,0 +1,24 @@
+{
+    "name": "radioactive-firebase",
+    "version": "0.0.1",
+    "homepage": "https://github.com/radioactive/radioactive-firebase",
+    "authors": [
+        "aldonline <aldo.bucchi@gmail.com>"
+    ],
+    "main": "radioactive-firebase.js",
+    "moduleType": [
+        "globals",
+        "node"
+    ],
+    "dependencies": {
+        "radioactive": "1.2.0"
+    },
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "src"
+    ]
+}
